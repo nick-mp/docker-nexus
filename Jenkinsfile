@@ -3,7 +3,6 @@
  * Includes the third-party code listed at http://links.sonatype.com/products/nexus/attributions.
  * "Sonatype" is a trademark of Sonatype, Inc.
  */
-@Library('private-pipeline-library') _
 import com.sonatype.jenkins.pipeline.GitHub
 import com.sonatype.jenkins.pipeline.OsTools
 
